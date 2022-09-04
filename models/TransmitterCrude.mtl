@@ -1,0 +1,55 @@
+# Blender MTL File: 'TransmitterCrude.blend'
+# Material Count: 5
+
+newmtl GlowingBlue
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.123712 0.570471
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.211056 1.500000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl GreyMetal
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\textures\\SharedWoodgrain01-sharedassets0.assets-44.png
+
+newmtl LogEnd
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\textures\\SharedWoodEnd-resources.assets-1162.png
+
+newmtl RingMetal
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ..\\textures\\SharedWoodgrain06-resources.assets-839.png
+
+newmtl WhiteArrows
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 2

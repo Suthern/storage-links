@@ -1,0 +1,11 @@
+Glowing Blue:
+Ke 0.000000 0.211056 1.500000
+
+Glowing Orange:
+Ke 1.500000 0.445599 0.082590
+
+Glowing Red:
+Ke 1.500000 0.000000 0.000000
+
+Glowing Green:
+Ke 0.000000 1.500000 0.000000
